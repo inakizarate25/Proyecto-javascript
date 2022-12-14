@@ -178,5 +178,110 @@
     "descripcion": "128GB",
     "precio": 543999,
     "img": "./imagenes/iphone-13.jpg"
+  },
+
+
+
+
+  {
+    "id": 21,
+    "cat": "accesorios",
+    "cantidad": 1,
+    "nombre": "Auriculares Inalámbricos",
+    "descripcion": "Xiaomi Buds 3T Pro",
+    "precio": 72099,
+    "img": "./imagenes/auriculares-inalambricos-xiaomi-buds-3t-pro-bluetooth-.jpg"
+  },
+  {
+    "id": 22,
+    "cat": "accesorios",
+    "cantidad": 1,
+    "nombre": "Parlante Xiaomi Portable",
+    "descripcion": "Bluetooth Speaker portátil",
+    "precio": 24119,
+    "img": "./imagenes/parlante-xiaomi-mi-portable-bluetooth-speaker-16w.jpg"
+  },
+  {
+    "id": 23,
+    "cat": "accesorios",
+    "cantidad": 1,
+    "nombre": "Xiaomi Watch S1 Active GL",
+    "descripcion": "Pantalla AMOLED HD de 1.43″",
+    "precio": 24119,
+    "img": "./imagenes/xiaomi-watch-s1-active-gl- (1).jpg"
+  },
+  {
+    "id": 24,
+    "cat": "accesorios",
+    "cantidad": 1,
+    "nombre": "Redmi buds 3 lite",
+    "descripcion": "Bluetooth",
+    "precio": 83499,
+    "img": "./imagenes/redmi-buds-3-lite.jpg"
+  },
+  {
+    "id": 25,
+    "cat": "accesorios",
+    "cantidad": 1,
+    "nombre": "Xiaomi Mi Smart Band 6",
+    "descripcion": "Smart Watch Reloj Inteligente",
+    "precio": 11900,
+    "img": "./imagenes/xiaomi-mi-smart-band-6-smart-watch-reloj-inteligente.jpg"
+  },
+  {
+    "id": 26,
+    "cat": "accesorios",
+    "cantidad": 1,
+    "nombre": "Galaxy Watch5",
+    "descripcion": "Bluetooth (44mm) Graphite",
+    "precio": 91999,
+    "img": "./imagenes/184157-1200-auto.png"
+  },
+  {
+    "id": 27,
+    "cat": "accesorios",
+    "cantidad": 1,
+    "nombre": "Galaxy Fit2",
+    "descripcion": "rojo",
+    "precio": 11999,
+    "img": "./imagenes/163528-1200-auto.png"
+  },
+  {
+    "id": 28,
+    "cat": "accesorios",
+    "cantidad": 1,
+    "nombre": "Galaxy Buds2 Pro",
+    "descripcion": "Grafito",
+    "precio": 53999,
+    "img": "./imagenes/184135-1200-auto.png"
+  },
+  {
+    "id": 29,
+    "cat": "accesorios",
+    "cantidad": 1,
+    "nombre": "Galaxy Buds+",
+    "descripcion": "Negro",
+    "precio": 15999,
+    "img": "./imagenes/159022-1200-auto.png"
+  },
+  {
+    "id": 30,
+    "cat": "accesorios",
+    "cantidad": 1,
+    "nombre": "Apple Watch Nike SE",
+    "descripcion": "Space Grey Aluminium",
+    "precio": 159999,
+    "img": "./imagenes/apple-watch-nike-se-gps-cellular-40mm-silver-aluminium-casepure-platinumblack-nike-sport-band.jpg"
+  },
+  {
+    "id": 31,
+    "cat": "accesorios",
+    "cantidad": 1,
+    "nombre": "AirPods - 3ra Generación",
+    "descripcion": "Bluetooth",
+    "precio": 90999,
+    "img": "./imagenes/airpods-3ra-generacion.jpg"
   }
+
+  
 ]

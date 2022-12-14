@@ -127,7 +127,7 @@ eliminar.addEventListener("click", () => {
     html: `<p>¡Tu orden está hecha!</p>
             <p>El total es <strong>$${total}</strong></p>
             <p>Codigo de pedido: ${orderNumber}</p>`,
-      timer: 6000,
+      timer: 3000,
       timerProgressBar: true,
       didOpen: () => {
       Swal.showLoading()
