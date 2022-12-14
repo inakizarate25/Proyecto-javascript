@@ -1,0 +1,182 @@
+[
+  {
+    "id": 2,
+    "cat": "xiaomi",
+    "cantidad": 1,
+    "nombre": "Redmi 9C",
+    "descripcion": "3GB RAM 64GB ROM",
+    "precio": 79300,
+    "img": "./imagenes/redmi-9c.jpg"
+  },
+  {
+    "id": 3,
+    "cat": "xiaomi",
+    "cantidad": 1,
+    "nombre": "Redmi Note 10 5g",
+    "descripcion": "4GB RAM 128GB ROM",
+    "precio": 87200,
+    "img": "./imagenes/redmi-note10.jpg"
+  },
+  {
+    "id": 4,
+    "cat": "xiaomi",
+    "cantidad": 1,
+    "nombre": "Redmi Note 11 pro+ 5g",
+    "descripcion": "6GB RAM 128GB ROM",
+    "precio": 123500,
+    "img": "./imagenes/redmi-note11pro+.jpg"
+  },
+  {
+    "id": 5,
+    "cat": "xiaomi",
+    "cantidad": 1,
+    "nombre": "Redmi Note 11 pro",
+    "descripcion": "6GB RAM 128GB ROM",
+    "precio": 112000,
+    "img": "./imagenes/redmi-note11pro.jpg"
+  },
+  {
+    "id": 1,
+    "cat": "xiaomi",
+    "cantidad": 1,
+    "nombre": "Redmi 9A",
+    "descripcion": "2GB RAM 32GB ROM",
+    "precio": 65700,
+    "img": "./imagenes/redmi-9a.jpg"
+  },
+  {
+    "id": 6,
+    "cat": "xiaomi",
+    "cantidad": 1,
+    "nombre": "Xiaomi 11 Lite 5g",
+    "descripcion": "128GB ROM",
+    "precio": 197400,
+    "img": "./imagenes/xiaomi11.jpg"
+  },
+  {
+    "id": 7,
+    "cat": "xiaomi",
+    "cantidad": 1,
+    "nombre": "Xiaomi 11t pro",
+    "descripcion": "8GB RAM 265GB ROM",
+    "precio": 214000,
+    "img": "./imagenes/xiaomi-11t-pro.jpg"
+  },
+  {
+    "id": 8,
+    "cat": "samsung",
+    "cantidad": 1,
+    "nombre": "Samsung Z-flip 4",
+    "descripcion": "128GB ROM",
+    "precio": 246800,
+    "img": "./imagenes/z-flip.webp"
+  },
+  {
+    "id": 9,
+    "cat": "samsung",
+    "cantidad": 1,
+    "nombre": "Samsung galaxy m13",
+    "descripcion": "128GB ROM 5G",
+    "precio": 67400,
+    "img": "./imagenes/m13.png"
+  },
+  {
+    "id": 10,
+    "cat": "samsung",
+    "cantidad": 1,
+    "nombre": "Samsung Z-fold 4",
+    "descripcion": "512GB ROM 5G",
+    "precio": 349560,
+    "img": "./imagenes/z-fold.webp"
+  },
+  {
+    "id": 11,
+    "cat": "samsung",
+    "cantidad": 1,
+    "nombre": "Samsung Galaxy a33",
+    "descripcion": "128 ROM 5G",
+    "precio": 89400,
+    "img": "./imagenes/a33.png"
+  },
+  {
+    "id": 12,
+    "cat": "samsung",
+    "cantidad": 1,
+    "nombre": "Samsung Galaxy s22 Ultra",
+    "descripcion": "512GB",
+    "precio": 382999,
+    "img": "./imagenes/s22-ultra.png"
+  },
+  {
+    "id": 13,
+    "cat": "samsung",
+    "cantidad": 1,
+    "nombre": "Samsung Galaxy s21 FE",
+    "descripcion": "128 ROM 5G",
+    "precio": 210000,
+    "img": "./imagenes/s21.png"
+  },
+  {
+    "id": 14,
+    "cat": "motorola",
+    "cantidad": 1,
+    "nombre": "Moto Edge 30 Ultra",
+    "descripcion": "256GB",
+    "precio": 229999,
+    "img": "./imagenes/moto-edege30ultra.png"
+  },
+  {
+    "id": 15,
+    "cat": "motorola",
+    "cantidad": 1,
+    "nombre": "Moto G 82",
+    "descripcion": "128GB",
+    "precio": 89999,
+    "img": "./imagenes/motog-82.png"
+  },
+  {
+    "id": 16,
+    "cat": "motorola",
+    "cantidad": 1,
+    "nombre": "Moto G 32",
+    "descripcion": "128GB",
+    "precio": 59999,
+    "img": "./imagenes/motog-32.png"
+  },
+  {
+    "id": 17,
+    "cat": "motorola",
+    "cantidad": 1,
+    "nombre": "Moto Edge 30 Neo",
+    "descripcion": "128GB",
+    "precio": 109999,
+    "img": "./imagenes/moto-edge30neo.png"
+  },
+  {
+    "id": 18,
+    "cat": "iphone",
+    "cantidad": 1,
+    "nombre": "IPhone 13 pro max",
+    "descripcion": "256GB",
+    "precio": 899999,
+    "img": "./imagenes/iphone-13-pro-max.jpg"
+  },
+  {
+    "id": 19,
+    "cat": "iphone",
+    "cantidad": 1,
+    "nombre": "IPhone 13 pro",
+    "descripcion": "128GB",
+    "precio": 798999,
+    "img": "./imagenes/iphone-13-pro.png"
+  },
+  {
+    "id": 20,
+    "cat": "iphone",
+    "cantidad": 1,
+    "nombre": "IPhone 13",
+    "descripcion": "128GB",
+    "precio": 543999,
+    "img": "./imagenes/iphone-13.jpg"
+  }
+]

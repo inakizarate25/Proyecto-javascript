@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+  <script type="text/javascript"
+  src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+
+<script type="text/javascript">
+  emailjs.init('VUn7__VIF9vDyQm8D')
+</script>
+  <link rel="stylesheet" href="sweetalert2.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="bootstrap-5.1.3-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+  
+    <title>Proyecto Javascript</title>
+</head>
+<body>
+  <!-- <script src="js/app.js"></script> -->
+  
+    <header class="fixed-top">
+       
+        <a class="ms-4" href="#">PHONELAND</a>
+      
+      
+
+        
+        
+    <div class="header1">
+      <!-- <a class="ms-4 login-button" id="nombre" href="#form">Log-In</a> -->
+
+      <button class="boton-carrito" id="boton-carrito" >
+      <p id="contador" class="num-productos"></p>
+      
+      <span class="iconify me-4" id="shopping-cart" data-icon="ant-design:shopping-cart-outlined" style="color: #0E2A47; font-weight: bold;" data-width="40" data-height="40">
+      </span>
+    </button>
+
+    </div>
+       
+    </header>
+    
+
+
+
+
+<div class="filtro">
+  <div id="search-container">
+    <input
+      type="search"
+      id="search-input"
+      placeholder="Buscar productos.."
+    />
+    <button id="search"><img src="imagenes/search.svg" alt="buscar"></button>
+  </div>
+
+
+<div class="buttons" id="buttons">
+  <button class="boton-filtro" onclick="filtrarProductos('todos')">TODOS</button>
+  <button class="boton-filtro" onclick="filtrarProductos('xiaomi')">XIAOMI</button>
+  <button class="boton-filtro" onclick="filtrarProductos('samsung')">SAMSUNG</button>
+  <button class="boton-filtro" onclick="filtrarProductos('motorola')">MOTOROLA</button>
+  <button class="boton-filtro" onclick="filtrarProductos('iphone')">IPHONE</button>
+</div>
+
+</div>
+
+
+  <!-- contenedor productos -->
+  <main id="main" >
+  </main>
+
+  
+    <aside class="carrito-container" id="carrito-container">
+      <!-- contenedor productos carrito -->
+      <div class="modal-carrito" id="modal-carrito">
+      </div>
+    </aside>
+
+  
+
+  <div class="bg"></div>
+  <div class="bg bg2"></div>
+  <div class="bg bg3"></div>
+  
+  
+
+    <footer class="" >
+
+
+
+      <form id="form" class="newsletter">
+        
+
+        <div class="field">
+          <label for="email_id">Subscibete a nuestro newsletter</label>
+          <input type="text" name="email_id" class="mail-n" id="email_id">
+        </div>
+      
+        <input type="submit" id="button-n" class="boton boton-n" value="SUBSCRIBIRSE" >
+      </form>
+
+        <p class="text-center">© 2022 IñakiZarate.dev</p>
+    </footer>
+
+
+
+    <script src="js/login.js"></script>
+    <script src="js/dom.js"></script>
+    <script src="js/carrito.js"></script>
+    <script src="https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js"></script>
+    <script src="https://code.iconify.design/3/3.0.0/iconify.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="bootstrap-5.1.3-dist/js/bootstrap.min.js"></script>
+    
+</body>
+</html>
